@@ -4,7 +4,6 @@ resources:
   source:
     uri: https://github.com/HamishFleming/concourse-experimentation.git
 
-
 jobs:
 - name: hello-world-job
   plan:
